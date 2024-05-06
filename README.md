@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Profile</title>
+<body>
     <style>
         *{
     margin: 0;
@@ -161,7 +162,6 @@ section{
     min-width: auto;
 }
     </style>
-<body>
     <nav class="container">
         <div class="wrapper">
             <div>
